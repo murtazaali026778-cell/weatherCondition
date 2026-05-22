@@ -87,10 +87,13 @@ h1{
         font-size: 1.8rem;
     }
     .in{
-        width: 120px;
+        width: 160px;
     }
    .btn{
-    margin-left: 20px;
+    margin-left: 0px;
+    font-size: 1.4rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
    }
     
 }

@@ -15,7 +15,7 @@ const Weather = () => {
     try {
 
       let response = await fetch(
-        `http://api.weatherapi.com/v1/current.json?key=de7d61dad4ec40568c0122514261905&q=karachi&aqi=yes`
+        `https://api.weatherapi.com/v1/current.json?key=e9147ef99eaf4038bb660248262205&q=Karachi&aqi=yes`
       )
 
       let data = await response.json()
